@@ -1,0 +1,1 @@
+# manemap-assets
